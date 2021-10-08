@@ -20,7 +20,7 @@ sc.setup(600, 600)
 sc.bgcolor('black')
  
 pen.right(90)
-pen.width(13)
+pen.width(11.5)
 pen.speed(7)
 
 for i in range(7):
