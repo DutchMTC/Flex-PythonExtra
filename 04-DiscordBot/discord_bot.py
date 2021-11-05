@@ -10,4 +10,4 @@ async def on_ready():
 
     # We printen de naam van de bot user uit.
     print(client.user, "has connected to the client")
-client.run("OTA2MTY0MzAyNDkzNDEzNDI2.YYUpRQ.wBIsHLfvE9aN32H0T1SMfELHvH0")
+client.run("")
